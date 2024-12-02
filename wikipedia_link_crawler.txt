@@ -1,0 +1,27 @@
+# Countries List page
+## Links in the same section of the countries list page
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[2]/div[1]/div/div/div[2]/ul/li[1]/div/div[1]/bdi/a
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[2]/div[1]/div/div/div[2]/ul/li[2]/div/div[1]/bdi/a
+
+## Links in a different section of the countries list page
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[2]/div[1]/div/div/div[9]/ul/li[2]/div/div[1]/bdi/a
+
+# Country page
+## Links in the same section of the country page
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[2]/div/div/div/div[1]/ul/li[1]/a
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[2]/div/div/div/div[1]/ul/li[2]/a
+
+## Links in a different section of the country page
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[2]/div/div/div/div[2]/ul/li[1]/a
+
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[2]/div[2]/div/div/div[1]/ul/li[1]/a
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[2]/div[2]/div/div/div[2]/ul/li[2]/a
+
+
+# Wikipedia News Site page
+## Website Link
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[1]/table/tbody/tr[17]/td/span/a
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[1]/table/tbody/tr[8]/td/span[1]/a
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[1]/table[1]/tbody/tr[9]/td/span[1]/a
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[1]/table[1]/tbody/tr[5]/td/span[1]/a
+/html/body/div[2]/div/div[3]/main/div[3]/div[3]/div[1]/table[2]/tbody/tr[4]/td/a
