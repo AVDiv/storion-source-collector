@@ -1,0 +1,10 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# CSV Files
+*.csv
+!initial_sources.csv
