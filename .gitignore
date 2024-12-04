@@ -7,7 +7,7 @@ venv/
 
 # CSV Files
 *.csv
-!initial_sources.csv
+!initial_*.csv
 
 # Log files
 *.log

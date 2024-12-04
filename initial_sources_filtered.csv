@@ -1,0 +1,279 @@
+title,domain,rss,category
+Brave Blog,brave.com,https://brave.com/blog/index.xml,Brave
+CNN,www.cnn.com,http://rss.cnn.com/rss/edition_world.rss,World News
+The New York Times,www.nytimes.com,https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml,Top News
+BBC,www.bbc.co.uk,https://feeds.bbci.co.uk/news/rss.xml?edition=int,Top News
+FOX News,www.foxnews.com,https://feeds.foxnews.com/foxnews/latest,Top News
+The Guardian,www.theguardian.com,https://www.theguardian.com/world/rss,Top News
+Washington Post,www.washingtonpost.com,https://www.washingtonpost.com/?outputType=rss,Top News
+NBC News,www.nbcnews.com,https://feeds.nbcnews.com/nbcnews/public/news,Top News
+ABC News,abcnews.go.com,https://abcnews.go.com/abcnews/topstories,Top News
+Daily Mail,www.dailymail.co.uk,https://www.dailymail.co.uk/home/index.rss,Top News
+New York Post,nypost.com,https://nypost.com/news/feed/,Top News
+NPR,www.npr.org,https://feeds.npr.org/1001/rss.xml,Top News
+WSJ,www.wsj.com,https://feeds.a.dj.com/rss/RSSWorldNews.xml,Top News
+LA Times,www.latimes.com,https://www.latimes.com/local/rss2.0.xml,Top News
+Newsweek,www.newsweek.com,https://www.newsweek.com/rss,Top News
+Politico,www.politico.com,https://rss.politico.com/politics-news.xml,Top News
+The Independent,www.independent.co.uk,https://www.independent.co.uk/rss,Top News
+Breitbart,www.breitbart.com,https://feeds.feedburner.com/breitbart,Top News
+The Hill,thehill.com,https://thehill.com/rss/syndicator/19110,Top News
+The Washington Times,www.washingtontimes.com,https://www.washingtontimes.com/rss/headlines/news/,Top News
+The Daily Beast,www.thedailybeast.com,https://feeds.feedburner.com/thedailybeast/articles,Top News
+The Telegraph,www.telegraph.co.uk,https://www.telegraph.co.uk/news/rss.xml,Top News
+Daily Caller,dailycaller.com,https://dailycaller.com/section/us/feed/,Top News
+The Blaze,www.theblaze.com,https://www.theblaze.com/feeds/news.rss,Top News
+CBC,www.cbc.ca,https://www.cbc.ca/cmlink/rss-topstories,Top News
+Al Jazeera,www.aljazeera.com,https://www.aljazeera.com/xml/rss/all.xml,Top News
+Sydney Morning Herald,www.smh.com.au,https://www.smh.com.au/rss/feed.xml,Top News
+Axios,www.axios.com,https://api.axios.com/feed/,Top News
+Der Spiegel,www.spiegel.de,https://www.spiegel.de/international/index.rss,Top News
+Sky News,news.sky.com,https://feeds.skynews.com/feeds/rss/world.xml,Top News
+The Boston Globe,www.bostonglobe.com,https://www.bostonglobe.com/rss/feedly.xml,Top News
+Euronews,www.euronews.com,https://feeds.feedburner.com/euronews/en/home/,Top News
+Financial Times,www.ft.com,https://www.ft.com/rss/home/uk,Top News
+Mother Jones,www.motherjones.com,https://feeds.feedburner.com/motherjones/main,Top News
+The Christian Science Monitor,www.csmonitor.com,https://rss.csmonitor.com/feeds/top,Top News
+ProPublica,www.propublica.org,https://www.propublica.org/feeds/propublica/main,Top News
+The New Republic,newrepublic.com,https://newrepublic.com/rss.xml,Top News
+Democracy Now!,www.democracynow.org,https://www.democracynow.org/democracynow.rss,Top News
+Foreign Policy,foreignpolicy.com,https://foreignpolicy.com/feed/,Top News
+The Nation,www.thenation.com,https://www.thenation.com/feed/?post_type=article,Top News
+HuffPost,www.huffpost.com,https://www.huffpost.com/section/world-news/feed,Top News
+Yahoo Finance,www.barrons.com;www.marketwatch.com;www.investors.com;finance.yahoo.com;www.investopedia.com,https://finance.yahoo.com/rss/topstories,Business
+Fast Company,www.fastcompany.com,https://feeds.feedburner.com/fastcompany/headlines,Business
+Forbes,www.forbes.com,https://www.forbes.com/real-time/feed/,Business
+WSJ - Markets,www.wsj.com,https://feeds.a.dj.com/rss/RSSMarketsMain.xml,Business
+CNBC,www.cnbc.com,https://www.cnbc.com/id/100003114/device/rss/rss.html,Business
+Business Insider,www.businessinsider.com;markets.businessinsider.com,https://feeds2.feedburner.com/businessinsider,Business
+Entrepreneur,www.entrepreneur.com,https://feeds.feedburner.com/entrepreneur/latest,Business
+Harvard Business Review,hbr.org,https://feeds.harvardbusiness.org/harvardbusiness/,Business
+MarketWatch,www.marketwatch.com,https://feeds.marketwatch.com/marketwatch/topstories/,Business
+Inc.com,www.inc.com,https://www.inc.com/rss/homepage.xml,Business
+The Economist,www.economist.com,https://www.economist.com/business/rss.xml,Business
+Freakonomics,freakonomics.com,https://freakonomics.com/feed/,Business
+The Motley Fool,www.fool.com,https://www.fool.com/a/feeds/foolwatch?format=rss2&id=foolwatch&apikey=foolwatch-feed,Business
+FOX Business,www.foxbusiness.com,https://feeds.foxbusiness.com/foxbusiness/latest,Business
+Quartz,qz.com,https://cms.qz.com/feed/,Business
+PSFK,www.psfk.com,https://www.psfk.com/feeds/psfk,Business
+Small Business Trends,smallbiztrends.com,https://feeds.feedburner.com/SmallBusinessTrends,Business
+Seeking Alpha,seekingalpha.com,https://seekingalpha.com/feed.xml,Business
+Fortune,fortune.com,https://fortune.com/feed/,Business
+Financial Times - Markets,www.ft.com,https://www.ft.com/markets?format=rss,Business
+Autoblog,www.autoblog.com,https://www.autoblog.com/rss.xml,Cars
+Jalopnik,jalopnik.com,https://jalopnik.com/rss,Cars
+Car and Driver,www.caranddriver.com,https://www.caranddriver.com/rss/all.xml/,Cars
+Edmunds,www.edmunds.com,https://www.edmunds.com/feeds/rss/articles.xml,Cars
+Motor1,www.motor1.com,https://www.motor1.com/rss/news/all/,Cars
+The Truth About Cars,www.thetruthaboutcars.com,https://www.thetruthaboutcars.com/feed/,Cars
+Electrek,electrek.co,https://electrek.co/feed/,Cars
+InsideEVs,insideevs.com,https://insideevs.com/rss/articles/all/,Cars
+CarBuzz,carbuzz.com,https://carbuzz.com/rss/news,Cars
+Autosport,www.autosport.com,https://www.autosport.com/rss/all/news/,Cars
+Speedhunters,www.speedhunters.com,https://feeds.feedburner.com/Speedhunters,Cars
+Carscoops,www.carscoops.com,https://www.carscoops.com/category/news/feed/,Cars
+Bike EXIF,www.bikeexif.com,https://www.bikeexif.com/feed,Cars
+The Drive,www.thedrive.com,https://api.thedrive.com/feed/?post_type=the_drive_article,Cars
+Autocar,www.autocar.co.uk,https://www.autocar.co.uk/rss/latestnews,Cars
+Bring A Trailer,bringatrailer.com,https://bringatrailer.com/feed/,Cars
+Paul Tan's Automotive News,paultan.org,https://paultan.org/feed/,Cars
+The Car Connection,www.motorauthority.com,https://feeds.feedburner.com/MotorAuthority2,Cars
+Cointelegraph,cointelegraph.com,https://cointelegraph.com/rss,Crypto
+Bitcoin Magazine,bitcoinmagazine.com,https://feeds.feedburner.com/BitcoinMagazine,Crypto
+Decrypt,decrypt.co,https://decrypt.co/feed/,Crypto
+Bitcoinist,bitcoinist.com,https://feeds.feedburner.com/bitcoinist/,Crypto
+NewsBTC,www.newsbtc.com,https://www.newsbtc.com/feed/,Crypto
+99 Bitcoins,99bitcoins.com,https://99bitcoins.com/feed/,Crypto
+CryptoSlate,cryptoslate.com,https://cryptoslate.com/feed/,Crypto
+Finance Magnates,www.financemagnates.com,https://www.financemagnates.com/cryptocurrency/feed/,Crypto
+BTCMANAGER,btcmanager.com,https://btcmanager.com/feed/,Crypto
+Blockgeeks,blockgeeks.com,https://blockgeeks.com/feed/,Crypto
+CryptoPotato,cryptopotato.com,https://cryptopotato.com/feed/,Crypto
+Wikihow,www.wikihow.com,https://www.wikihow.com/feed.rss,Culture
+The Atlantic,www.theatlantic.com,https://feeds.feedburner.com/TheAtlantic,Culture
+TED Talks,www.ted.com,https://feeds.feedburner.com/tedtalks_video,Culture
+Vox,www.vox.com,https://www.vox.com/rss/index.xml,Culture
+Slate,slate.com,https://slate.com/feeds/all.rss,Culture
+VICE,www.vice.com,https://www.vice.com/en/rss?locale=en_us,Culture
+The New Yorker,www.newyorker.com,https://www.newyorker.com/feed/everything,Culture
+Boing Boing,boingboing.net,https://boingboing.net/feed,Culture
+Brain Pickings,www.themarginalian.org,https://feeds.feedburner.com/brainpickings/rss,Culture
+Vanity Fair,www.vanityfair.com,https://www.vanityfair.com/feed/rss,Culture
+Cool Hunting,coolhunting.com,https://coolhunting.com/feed/atom/,Culture
+Complex,www.complex.com;solecollector.com,https://assets.complex.com/feeds/channels/all.xml,Culture
+Mental Floss,www.mentalfloss.com,https://www.mentalfloss.com/rss.xml,Culture
+Thought Catalog,thoughtcatalog.com,https://feeds.feedburner.com/ThoughtCatalog,Culture
+Open Culture,www.openculture.com,https://feeds.feedburner.com/OpenCulture,Culture
+Salon.com,www.salon.com,https://www.salon.com/feed/,Culture
+PostSecret,postsecret.blogspot.com,https://postsecret.blogspot.com/feeds/posts/default,Culture
+Upworthy,biztoc.com,https://feeds.feedburner.com/upworthy,Culture
+kottke.org,kottke.org,https://feeds.kottke.org/main,Culture
+The New York Review of Books,www.nybooks.com,https://feeds.feedburner.com/nybooks,Culture
+The Root,www.theroot.com,https://www.theroot.com/rss/full,Culture
+TMZ,www.tmz.com,https://www.tmz.com/rss.xml,Entertainment
+Rolling Stone,www.rollingstone.com,https://www.rollingstone.com/music/feed/,Entertainment
+Variety,variety.com,https://feeds.feedburner.com/variety/headlines,Entertainment
+E! Online,www.eonline.com,https://syndication.eonline.com/syndication/feeds/rssfeeds/topstories.xml,Entertainment
+IndieWire,www.indiewire.com,https://www.indiewire.com/feed/,Entertainment
+io9,gizmodo.com,https://feeds.feedburner.com/io9/,Entertainment
+Deadline,deadline.com,https://deadline.com/feed/,Entertainment
+SlashFilm,www.slashfilm.com,https://feeds.feedburner.com/slashfilm,Entertainment
+IGN Reviews,www.ign.com,https://feeds.ign.com/ign/reviews,Entertainment
+The A.V. Club,www.avclub.com,https://www.avclub.com/rss,Entertainment
+Vanity Fair,www.vanityfair.com,https://www.vanityfair.com/feed/rss,Entertainment
+FirstShowing.net,www.firstshowing.net,https://www.firstshowing.net/feed/?full,Entertainment
+ET,www.etonline.com,https://feeds.feedburner.com/ETTopStories,Entertainment
+Us Weekly,www.usmagazine.com,https://www.usmagazine.com/category/entertainment/feed/,Entertainment
+Flavorwire,www.flavorwire.com,https://feeds.feedburner.com/flavorwire-rss,Entertainment
+Film School Rejects,filmschoolrejects.com,https://feeds.feedburner.com/FilmSchoolRejects,Entertainment
+Ain't It Cool,www.aintitcool.com,https://www.aintitcool.com/node/feed/,Entertainment
+CinemaBlend,www.cinemablend.com,https://www.cinemablend.com/rss/topic/news/movies,Entertainment
+Hollywood Life,hollywoodlife.com,https://hollywoodlife.com/feed/,Entertainment
+TVLine,tvline.com,https://tvline.com/feed/,Entertainment
+Refinery29,www.refinery29.com,https://www.refinery29.com/index.xml,Fashion
+The Art of Manliness,www.artofmanliness.com,https://feeds2.feedburner.com/TheArtOfManliness,Fashion
+Hypebeast,hypebeast.com,https://feeds.feedburner.com/hypebeast/feed,Fashion
+Popsugar,www.popsugar.com,https://www.popsugar.com/feed,Fashion
+Uncrate,uncrate.com,https://feeds.feedburner.com/uncrate,Fashion
+Fashionista,fashionista.com,https://feeds.feedburner.com/fashionistacom,Fashion
+GQ,www.gq.com,https://www.gq.com/feed/rss,Fashion
+Esquire,www.esquire.com,https://www.esquire.com/rss/style.xml/,Fashion
+Who What Wear,www.whowhatwear.com,https://feeds.whowhatwear.com/whowhatwear,Fashion
+Elle,www.elle.com,https://www.elle.com/rss/fashion.xml/,Fashion
+Vogue,www.vogue.com,https://www.vogue.com/feed/rss,Fashion
+Highsnobiety,www.highsnobiety.com,https://feeds.feedburner.com/highsnobiety/rss,Fashion
+The Business of Fashion,www.businessoffashion.com,https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml,Fashion
+Into The Gloss,intothegloss.com,https://feeds.feedburner.com/intothegloss/oqoU,Fashion
+DORÉ,www.wearedore.com,https://www.wearedore.com/feed/,Fashion
+WWD,wwd.com,https://wwd.com/custom-feed/recent-stories/,Fashion
+Bubby and Bean,www.bubbyandbean.com,https://feeds.feedburner.com/BubbyAndBean,Fashion
+Honestly WTF,honestlywtf.com,https://feeds.feedburner.com/honestlywtf,Fashion
+FashionBeans,www.fashionbeans.com,https://www.fashionbeans.com/feed/,Fashion
+Put This On,putthison.com,https://putthison.com/feed/,Fashion
+Kitchn,www.thekitchn.com,https://feeds.feedburner.com/apartmenttherapy/thekitchn,Food
+Bon Appétit,www.bonappetit.com,https://www.bonappetit.com/feed/rss,Food
+Lifehacker - Skillet,lifehacker.com,https://lifehacker.com/rss,Food
+Eater,www.eater.com;nymag.com;austin.eater.com,https://feeds.feedburner.com/EaterNational,Food
+Simply Recipes,www.simplyrecipes.com,https://www.simplyrecipes.com/feeds/google-news,Food
+Serious Eats,www.seriouseats.com,https://feeds.seriouseats.com/seriouseatsfeaturesvideos,Food
+Food52,food52.com,https://feeds.feedburner.com/food52-TheAandMBlog,Food
+Pinch of Yum,pinchofyum.com,https://feeds.feedburner.com/pinch-of-yum,Food
+Dilbert Daily Strip,dilbert.com,https://feeds.feedburner.com/DilbertDailyStrip,Fun
+The Onion,www.theonion.com,https://www.theonion.com/rss,Fun
+FAIL Blog,cheezburger.com,https://feeds.feedburner.com/failblog,Fun
+The Oatmeal,theoatmeal.com,https://theoatmeal.com/feed/rss,Fun
+Saturday Morning Breakfast Cereal,www.smbc-comics.com,https://www.smbc-comics.com/comic/rss,Fun
+Cracked,www.cracked.com,https://feeds.feedburner.com/CrackedRSS,Fun
+I Can Has Cheezburger?,cheezburger.com,https://feeds.feedburner.com/ICanHasCheezburger,Fun
+Penny Arcade,www.penny-arcade.com,https://feeds.penny-arcade.com/pa-mainsite,Fun
+Healthline,www.healthline.com,https://www.healthline.com/rss/health-news,Health
+WebMD Health,www.webmd.com,https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC,Health
+Mayo Clinic,www.mayoclinic.org,https://www.mayoclinic.org/rss/all-health-information-topics,Health
+Men's Health,www.menshealth.com,https://www.menshealth.com/rss/all.xml/,Health
+Nerd Fitness,www.nerdfitness.com,https://feeds.feedburner.com/NerdFitnessBlog,Health
+mindbodygreen,www.mindbodygreen.com,https://www.mindbodygreen.com/rss/feed.xml,Health
+New England Journal of Medicine,www.nejm.org,https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss,Health
+SELF,www.self.com,https://www.self.com/feed/rss,Health
+Greatist,greatist.com,https://greatist.com/feed,Health
+Well+Good,www.wellandgood.com,https://www.wellandgood.com/feed/,Health
+MedicineNet,www.medicinenet.com,https://www.medicinenet.com/rss/dailyhealth.xml,Health
+Shape Magazine,www.shape.com,https://www.shape.com/rss.xml,Health
+Wellness Mama,wellnessmama.com,https://wellnessmama.com/feed/,Health
+Houzz,www.houzz.com,https://www.houzz.com/getGalleries/featured/out-rss,Home
+Apartment Therapy,www.apartmenttherapy.com,https://www.apartmenttherapy.com/main.rss,Home
+Design Milk,design-milk.com,https://feeds.feedburner.com/design-milk,Home
+Bob Vila,www.bobvila.com,https://www.bobvila.com/rss.xml,Home
+Contemporist,www.contemporist.com,https://feeds.feedburner.com/contemporist,Home
+Trendir,www.trendir.com,https://feeds.feedburner.com/trendir/,Home
+sfgirlbybay,www.sfgirlbybay.com,https://www.sfgirlbybay.com/feed/,Home
+Poppytalk,poppytalk.blogspot.com,https://feeds.feedburner.com/blogspot/ISuVv,Home
+Juniper Home,juniperhome.com,https://juniperhome.com/blog/feed/,Home
+Homedit,www.homedit.com,https://feeds.feedburner.com/Homedit,Home
+Making it Lovely,makingitlovely.com,https://feeds2.feedburner.com/makingitlovely,Home
+Remodelista,www.remodelista.com,https://www.remodelista.com/feed/,Home
+domino,www.domino.com,https://www.domino.com/feed/,Home
+The Design Files,thedesignfiles.net,https://thedesignfiles.net/feed/,Home
+Starts With A Bang!,medium.com,https://medium.com/feed/starts-with-a-bang,Science
+Livescience.com,www.livescience.com,https://feeds.feedburner.com/Livesciencecom,Science
+Scientific American,www.scientificamerican.com,https://rss.sciam.com/ScientificAmerican-Global,Science
+Popular Science,www.popsci.com,https://www.popsci.com/feed/,Science
+Nature,www.nature.com,https://feeds.nature.com/nature/rss/current,Science
+Space.com,www.space.com,https://www.space.com/feeds/all,Science
+ScienceMag,www.science.org,https://www.science.org/rss/news_current.xml,Science
+ScienceAlert,www.sciencealert.com,https://feeds.feedburner.com/sciencealert-latestnews,Science
+NASA Image of the Day,www.nasa.gov,https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss,Science
+New Scientist,www.newscientist.com,https://feeds.newscientist.com/science-news/,Science
+Ars Technica,arstechnica.com,https://feeds.arstechnica.com/arstechnica/science,Science
+Smithsonian Magazine,www.smithsonianmag.com,https://feeds.feedburner.com/smithsonianmag/science-nature,Science
+Information is Beautiful,informationisbeautiful.net,https://feeds.feedburner.com/InformationIsBeautiful,Science
+ScienceDaily,www.sciencedaily.com,https://www.sciencedaily.com/newsfeed.xml,Science
+Futurism,futurism.com,https://futurism.com/feed,Science
+FlowingData,flowingdata.com,https://flowingdata.com/feed,Science
+Futurity,www.futurity.org,https://www.futurity.org/feed/,Science
+Bad Astronomy,www.syfy.com,https://www.syfy.com/syfy-wire/topic/bad-astronomy/feed,Science
+Phys.org,phys.org,https://phys.org/rss-feed/,Science
+Big Think,bigthink.com,https://feeds.feedburner.com/bigthink/main,Science
+NASA Breaking News,www.nasa.gov,https://www.nasa.gov/rss/dyn/breaking_news.rss,Science
+Mind Hacks,mindhacks.com,https://mindhacks.com/feed/atom/,Science
+FiveThirtyEight - Science,fivethirtyeight.com,https://fivethirtyeight.com/science/feed/,Science
+IEEE Spectrum,spectrum.ieee.org,https://feeds2.feedburner.com/IeeeSpectrum,Science
+ESPN,www.espn.com,https://www.espn.com/espn/rss/news,Sports
+Bleacher Report,bleacherreport.com,https://bleacherreport.com/articles/feed,Sports
+Yahoo! Sports,news.yahoo.com,https://news.yahoo.com/rss/sports,Sports
+CBSSports,www.cbssports.com,https://www.cbssports.com/rss/headlines/,Sports
+Deadspin,deadspin.com,https://feeds.feedburner.com/deadspin/,Sports
+SkySports,www.skysports.com,https://www.skysports.com/rss/11095,Sports
+ESPN - Cricket,www.espncricinfo.com,https://www.espncricinfo.com/rss/content/story/feeds/0.xml,Sports
+SBNation.com,www.sbnation.com,https://feeds.sbnation.com/rss/current,Sports
+The Telegraph - Sports,www.telegraph.co.uk,https://www.telegraph.co.uk/sport/rss.xml,Sports
+FiveThirtyEight - Sports,projects.fivethirtyeight.com;fivethirtyeight.com,https://fivethirtyeight.com/sports/feed/,Sports
+ESPN - Football,www.espn.com,https://www.espn.com/espn/rss/soccer/news,Sports
+FOX Sports,www.foxsports.com,https://api.foxsports.com/v1/rss,Sports
+MLB Trade Rumors,www.mlbtraderumors.com,https://www.mlbtraderumors.com/feed/atom,Sports
+FanGraphs Baseball,blogs.fangraphs.com,https://blogs.fangraphs.com/feed/,Sports
+Uproxx - Sports,uproxx.com,https://feeds.feedburner.com/uproxx/withleather,Sports
+The Ringer,www.theringer.com,https://www.theringer.com/rss/index.xml,Sports
+Arseblog,shows.acast.com,https://feeds.feedburner.com/arseblog,Sports
+The Athletic,theathletic.com,https://theathletic.com/rss-feed/,Sports
+RealGM Basketball Wiretap,basketball.realgm.com,https://basketball.realgm.com/rss/realgm_nba_wiretap.xml,Sports
+The Athletic - NBA,theathletic.com,https://theathletic.com/nba/?rss=1,Sports
+CNET News,www.cnet.com,https://www.cnet.com/rss/news/,Technology
+The Verge,www.theverge.com,https://www.theverge.com/rss/full.xml,Technology
+Engadget,www.engadget.com,https://www.engadget.com/rss-full.xml,Technology
+Wired,www.wired.com,https://www.wired.com/feed,Technology
+Lifehacker,lifehacker.com,https://lifehacker.com/rss,Technology
+TechCrunch,techcrunch.com,https://techcrunch.com/feed/,Technology
+Gizmodo,gizmodo.com,https://gizmodo.com/rss,Technology
+ZDNet,www.zdnet.com,https://www.zdnet.com/news/rss.xml,Technology
+Mashable,mashable.com,https://feeds.mashable.com/Mashable,Technology
+TechRadar,www.techradar.com,https://www.techradar.com/rss,Technology
+Digital Trends,www.digitaltrends.com,https://www.digitaltrends.com/feed/,Technology
+How-To Geek,www.cloudsavvyit.com;www.howtogeek.com;www.reviewgeek.com,https://feeds.howtogeek.com/HowToGeek,Technology
+GSMArena,www.gsmarena.com,https://www.gsmarena.com/rss-news-reviews.php3,Technology
+Android Central,www.androidcentral.com,https://www.androidcentral.com/feed,Technology
+MacRumors,www.macrumors.com,https://feeds.macrumors.com/MacRumors-Front,Technology
+VentureBeat,venturebeat.com,https://venturebeat.com/feed/,Technology
+The Next Web,thenextweb.com,https://feeds2.feedburner.com/thenextweb,Technology
+Windows Central,www.windowscentral.com,https://feeds.feedburner.com/wmexperts,Technology
+MakeUseOf,www.makeuseof.com,https://feeds.feedburner.com/Makeuseof,Technology
+Hackaday,hackaday.com,https://hackaday.com/blog/feed/,Technology
+9to5Mac,9to5mac.com,https://9to5mac.com/feed/,Technology
+IEEE Spectrum,spectrum.ieee.org,https://feeds2.feedburner.com/IeeeSpectrum,Technology
+The Points Guy,thepointsguy.com,https://feeds.feedburner.com/thepointsguy,Travel
+Lonely Planet,www.lonelyplanet.com,https://www.lonelyplanet.com/articles/news/feed/atom,Travel
+Atlas Obscura,www.atlasobscura.com,https://www.atlasobscura.com/feeds/latest,Travel
+Stuck in Customs,stuckincustoms.com,https://feeds.feedburner.com/stuckincustoms/EmRA,Travel
+One Mile at a Time,onemileatatime.com,https://onemileatatime.com/feed/,Travel
+Skift,skift.com,https://skift.com/feed/,Travel
+Matador Network,matadornetwork.com,https://matadornetwork.com/feed/,Travel
+Adventure,adventure.com,https://adventure.com/feed/,Travel
+Million Mile Secrets,millionmilesecrets.com,https://feeds.feedburner.com/MillionMileSecrets,Travel
+FlyerTalk,www.flyertalk.com,https://www.flyertalk.com/feed,Travel
+BoardingArea,www.paddleyourownkanoo.com;milesforfamily.com;liveandletsfly.com;travelupdate.com;yourmileagemayvary.net;viewfromthewing.com;youhavebeenupgraded.boardingarea.com;onemileatatime.com;milestomemories.com,https://boardingarea.com/feed/atom/,Travel
+Frommer's,www.frommers.com,https://www.frommers.com/feed,Travel
+The Guardian - Travel,www.theguardian.com,https://www.theguardian.com/us/travel/rss,Travel
+Secret Flying,www.secretflying.com,https://www.secretflying.com/feed/,Travel
+Travel Weekly,www.travelweekly.com,https://feeds.feedburner.com/TravelWeeklysTopStories,Travel
+AFAR Magazine,www.afar.com,https://feeds.feedburner.com/AfarMagazine,Travel
+Rick Steves' Travel Blog,blog.ricksteves.com,https://blog.ricksteves.com/feed/,Travel
+The Flight Deal,www.theflightdeal.com,https://feeds.feedburner.com/TheFlightDeal,Travel
