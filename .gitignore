@@ -8,3 +8,6 @@ venv/
 # CSV Files
 *.csv
 !initial_sources.csv
+
+# Log files
+*.log
