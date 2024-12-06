@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 from urllib.robotparser import RobotFileParser  # Added import
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
+from feedfinder2 import find_feeds  # Added import
 
 # Configure logging
 logging.basicConfig(
@@ -47,17 +48,11 @@ def validate_url(url):
 
 
 def find_rss_feed(domain):
-    potential_feeds = [
-        f"https://{domain}/rss",
-        f"https://{domain}/feed",
-        f"https://{domain}/feeds/posts/default",
-        f"https://{domain}/rss.xml",
-        f"https://{domain}/feed.xml",
-    ]
+    potential_feeds = find_feeds(f"https://{domain}")
     for feed_url in potential_feeds:
         try:
             response = requests.get(feed_url, timeout=5)
-            if response.status_code == 200:
+            if response.status_code == 200 and feedparser.parse(feed_url).bozo == 0:
                 return feed_url
         except requests.RequestException as ex:
             continue

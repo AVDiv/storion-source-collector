@@ -9,6 +9,7 @@ requests = "*"
 "newspaper.io" = {git = "https://github.com/AVDiv/newspaper.io"}
 pandas = "*"
 feedparser = "*"
+feedfinder2 = "*"
 
 [dev-packages]
 ipykernel = "*"
