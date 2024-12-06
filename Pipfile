@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 lxml = "*"
 requests = "*"
+"newspaper.io" = {git = "https://github.com/AVDiv/newspaper.io"}
+pandas = "*"
+feedparser = "*"
 
 [dev-packages]
 ipykernel = "*"
