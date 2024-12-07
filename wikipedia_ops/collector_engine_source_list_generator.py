@@ -79,7 +79,7 @@ def check_robots_txt(domain, article_links):
         logging.exception(link)
         return False, 0
     except Exception as ex:
-        logging.exception(link)
+        logging.exception(f"Unknown error: {ex}")
         return False, 0
 
 
