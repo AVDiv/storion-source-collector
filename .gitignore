@@ -11,3 +11,8 @@ venv/
 
 # Log files
 *.log
+
+# IDEs
+.nvim
+.idea
+.vscode
